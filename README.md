@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @UjjwalKumar31
-- 👀 I’m interested in Python-Full Stack based development project
+- 👋 Hi, I’m Ujjwal Kumar {-- @UjjwalKumar31 --}
+- 👀 I’m interested in Python-Full Stack development project
 - 🌱 I’m currently learning Web development using python Web Framework [Flask | Django] and AWS Solution Architect
 - 💞️ I’m looking to collaborate on Python based software development project
 - 📫 Reach out to me at https://www.linkedin.com/in/ujjwal-kumar-2bb45172/
