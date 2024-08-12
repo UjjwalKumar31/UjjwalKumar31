@@ -6,11 +6,12 @@
 
 
 About My Professional Life :
-I have 3+ years of professional experience working as Software Developer in renowned MNC. 
+I have 3.6 years of professional experience working as Software Developer in renowned MNC. 
 Areas of expertise:
   -- Python Programming
   -- Flask/Django Web Framework
-  -- Web Development [HTML5, CSS3, Bootstrap, JavaScript, JQuery]
+  -- Python Integration & Automation
+  -- Web Development [HTML5, CSS3, Bootstrap, JavaScript, JQuery, ExpressJs]
   -- APIs Design
   -- MongoDB | MySQL | MS SQL | PostgreSQL
   -- Docker & Kubernetes
