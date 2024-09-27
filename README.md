@@ -10,7 +10,7 @@ I have 3.6 years of professional experience working as Software Developer in ren
 Areas of expertise:
   -- Python Programming
   -- Flask/Django Web Framework
-  -- Python Integration & Automation
+  -- Python Integration & Automation [Gunicorn, Nginx, Selenium]
   -- Web Development [HTML5, CSS3, Bootstrap, JavaScript, JQuery, ExpressJs]
   -- APIs Design
   -- MongoDB | MySQL | MS SQL | PostgreSQL
