@@ -1,12 +1,12 @@
 - 👋 Hi, I’m Ujjwal Kumar {-- @UjjwalKumar31 --}
 - 👀 I’m interested in Python-Full Stack development project
-- 🌱 I’m currently learning and practicing Web development using python Web Framework [Flask | Django] and AWS Solution Architect
+- 🌱 I’m currently learning and practicing Web development using python Web Framework [Flask | Django | FastAPI] and AWS Solution Architect
 - 💞️ I’m looking to collaborate on Python based software development project
 - 📫 Reach out to me at https://www.linkedin.com/in/ujjwal-kumar-2bb45172/
 
 
 About My Professional Life :
-I have 3.6 years of professional experience working as Software Developer in renowned MNC. 
+I have ~4 years of professional experience working as Software Developer in renowned MNC. 
 Areas of expertise:
   -- Python Programming
   -- Flask/Django Web Framework
